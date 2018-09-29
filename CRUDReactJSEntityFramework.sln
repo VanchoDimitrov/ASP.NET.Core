@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDReactJSEntityFramework", "CRUDReactJSEntityFramework\CRUDReactJSEntityFramework.csproj", "{D75EEF29-A0D7-4BE3-AB13-2B3EF9FD720C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75EEF29-A0D7-4BE3-AB13-2B3EF9FD720C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75EEF29-A0D7-4BE3-AB13-2B3EF9FD720C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75EEF29-A0D7-4BE3-AB13-2B3EF9FD720C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75EEF29-A0D7-4BE3-AB13-2B3EF9FD720C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F44CB4-925F-4FE0-914C-A18FEFF674F0}
+	EndGlobalSection
+EndGlobal
