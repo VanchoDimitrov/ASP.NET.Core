@@ -40,7 +40,7 @@ export class AddEmployee extends React.Component<RouteComponentProps<{}>, AddEmp
             this.state = { title: "Create", loading: false, cityList: [], empData: new EmployeeData };
         }
 
-        // Bind the Sace and Cancel so that things work on callback
+        // Bind the Save and Cancel so that things work on callback
         this.handleSave = this.handleSave.bind(this);
         this.handleCancel = this.handleCancel.bind(this);
     }
